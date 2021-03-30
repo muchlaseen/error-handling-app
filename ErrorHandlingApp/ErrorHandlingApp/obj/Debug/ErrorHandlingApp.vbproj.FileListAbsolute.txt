@@ -1,0 +1,12 @@
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\bin\Debug\ErrorHandlingApp.exe.config
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\bin\Debug\ErrorHandlingApp.exe
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\bin\Debug\ErrorHandlingApp.pdb
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\bin\Debug\ErrorHandlingApp.xml
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.vbprojAssemblyReference.cache
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.Form1.resources
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.Resources.resources
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.vbproj.GenerateResource.cache
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.vbproj.CoreCompileInputs.cache
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.exe
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.xml
+C:\Users\Native\source\repos\ErrorHandlingApp\ErrorHandlingApp\obj\Debug\ErrorHandlingApp.pdb
